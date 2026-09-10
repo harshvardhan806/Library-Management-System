@@ -13,7 +13,7 @@ document.getElementById('login-form').onsubmit = function(event) {
 
     // Here, you can add logic to validate the login credentials
     // If the login is successful, redirect to the home page
-    window.location.href = 'home.html'; // Change 'home.html' to your actual home page
+    window.location.href = 'index.html'; // Change 'home.html' to your actual home page
 };
 
 // Optionally, handle registration form submission (if needed)
